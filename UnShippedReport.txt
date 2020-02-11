@@ -1,0 +1,19 @@
+=========================UN-SHIPPED ORDERS REPORT=========================
+
+
+
+
+	   Scheduled Shipping Date      : 22-August-2016
+	   Order Id                       : SMC005
+		   Item Id		ItemQty
+		   #i202			20
+		   #i300			40
+
+
+	   Scheduled Shipping Date      : 26-August-2016
+	   Order Id                       : SMC003
+		   Item Id		ItemQty
+		   #i200			15
+		   #i201			250
+------------------------------------------------------
+Count of orders to be completed by this week:2
