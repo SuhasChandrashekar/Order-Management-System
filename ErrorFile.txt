@@ -1,0 +1,12 @@
+Quantity of Item #i200 in Order SMC001 is invalid!!! Order discarded
+Item i200 in Order SMC002 is invalid!!! Order discarded
+Order SMC003 Already Present...Cannot Insert
+Order SMC004 Already Present...Cannot Insert
+Order SMC005 Already Present...Cannot Insert
+Order SMC006 Already Present...Cannot Insert
+Update Failed...Order SMC001 Not Present
+Update Failed...Order SMC002 Not Present
+Item #i202 in Order SMC003 is invalid!!! Item discarded
+Update Failed...Order SMC004 already shipped
+Cancellation Failed...Order SMC004 already shipped
+Cancellation Failed...Order SMC006 already shipped

@@ -1,0 +1,27 @@
+=========================SHIPPED ORDERS REPORT=========================
+
+
+Shipments done from 10-08-2016 to 20-08-2016
+
+
+	Order Id    : SMC006
+	Shipped To    : Bangalore
+	Shipped date  : 14-August-2016
+
+	Item Id	ItemQty
+	-------	-------
+	#i200	3
+	#i202	100
+	#i300	150
+
+
+	Order Id    : SMC004
+	Shipped To    : Bangalore
+	Shipped date  : 16-August-2016
+
+	Item Id	ItemQty
+	-------	-------
+	#i202	20
+	#i300	40
+------------------------------------------------------
+Count of orders shipped during specified date:2
